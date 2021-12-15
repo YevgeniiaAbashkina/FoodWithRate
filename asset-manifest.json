@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FoodWithRate/static/css/main.4e3fca8e.chunk.css",
+    "main.js": "/FoodWithRate/static/js/main.8617b5f3.chunk.js",
+    "main.js.map": "/FoodWithRate/static/js/main.8617b5f3.chunk.js.map",
+    "runtime-main.js": "/FoodWithRate/static/js/runtime-main.43a1d132.js",
+    "runtime-main.js.map": "/FoodWithRate/static/js/runtime-main.43a1d132.js.map",
+    "static/css/2.f2512455.chunk.css": "/FoodWithRate/static/css/2.f2512455.chunk.css",
+    "static/js/2.6f33079d.chunk.js": "/FoodWithRate/static/js/2.6f33079d.chunk.js",
+    "static/js/2.6f33079d.chunk.js.map": "/FoodWithRate/static/js/2.6f33079d.chunk.js.map",
+    "index.html": "/FoodWithRate/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/FoodWithRate/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.4e3fca8e.chunk.css.map": "/FoodWithRate/static/css/main.4e3fca8e.chunk.css.map",
+    "static/js/2.6f33079d.chunk.js.LICENSE.txt": "/FoodWithRate/static/js/2.6f33079d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43a1d132.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.6f33079d.chunk.js",
+    "static/css/main.4e3fca8e.chunk.css",
+    "static/js/main.8617b5f3.chunk.js"
+  ]
+}
