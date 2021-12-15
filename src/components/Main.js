@@ -9,7 +9,6 @@ export const MealContext= React.createContext();
 
 export default class Main extends React.Component{
     state={
-        //meals:[],
         meals: getMealsFromJson(),
         currentMeal: null
     }
@@ -52,7 +51,6 @@ export default class Main extends React.Component{
             </MealContext.Provider>
         )
     }
-
 }
 
 function getMealsFromJson(){
@@ -66,4 +64,3 @@ function getMealsFromJson(){
     console.log(meals);
     return meals
 }
-
